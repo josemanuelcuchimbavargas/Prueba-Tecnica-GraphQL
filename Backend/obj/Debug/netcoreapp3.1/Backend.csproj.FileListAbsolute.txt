@@ -1,0 +1,196 @@
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\GreenDonut.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Playground.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Execution.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Fetching.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.SyntaxTree.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.Utf8.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.Visitors.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Server.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.CursorPagination.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Filters.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.OffsetPagination.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Sorting.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.Introspection.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Validation.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Snapshooter.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Snapshooter.Xunit.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\puker\source\repos\Backend\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.styles.css
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\puker\source\repos\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\GreenDonut.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.AspNetCore.Playground.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Execution.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Fetching.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.SyntaxTree.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.Utf8.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Language.Visitors.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Server.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.CursorPagination.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Filters.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.OffsetPagination.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Types.Sorting.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Utilities.Introspection.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\HotChocolate.Validation.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Snapshooter.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Snapshooter.Xunit.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.styles.css
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\puker\source\repos\#2 BACKEND\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
